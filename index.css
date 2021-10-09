@@ -94,7 +94,12 @@
     margin-top: 4rem;
   }
   
-  /*--/ Title A /--*/
+  .title-s {
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 1.1rem;
+  }
+  
   .title-box {
     margin-bottom: 4rem;
   }
